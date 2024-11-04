@@ -1,0 +1,3 @@
+Found from https://habr.com/ru/companies/otus/articles/830104/
+
+Have questions regarding which allocator I might need in my practice, as well as a question of data alignment.
